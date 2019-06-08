@@ -1,0 +1,58 @@
+{
+  "_from": "git+https://github.com/luocongqiu/cordova-plugin-navigation.git",
+  "_id": "cordova-plugin-navigation@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-navigation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/luocongqiu/cordova-plugin-navigation.git",
+    "rawSpec": "https://github.com/luocongqiu/cordova-plugin-navigation.git",
+    "saveSpec": "git+https://github.com/luocongqiu/cordova-plugin-navigation.git",
+    "fetchSpec": "https://github.com/luocongqiu/cordova-plugin-navigation.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/luocongqiu/cordova-plugin-navigation.git#6d5b75ec75724a7e9eca6923d437d2f8ad5cf060",
+  "_spec": "https://github.com/luocongqiu/cordova-plugin-navigation.git",
+  "_where": "E:\\lzm\\cordova\\GaodeNavDemo",
+  "author": {
+    "name": "luo cong qiu"
+  },
+  "bugs": {
+    "url": "https://github.com/luocongqiu/cordova-plugin-navigation/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-navigation",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova AMap Navigatioin Plugin",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "homepage": "https://github.com/luocongqiu/cordova-plugin-navigation#readme",
+  "keywords": [
+    "cordova",
+    "navigation",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "name": "cordova-plugin-navigation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luocongqiu/cordova-plugin-navigation.git"
+  },
+  "version": "0.0.1"
+}

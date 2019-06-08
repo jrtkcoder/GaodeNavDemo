@@ -1,0 +1,19 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "top.jrnet.gaodenav.demo"
+    },
+    "cordova-plugin-navigation": {
+      "NAVIGATION_API_KEY": "008730dfc736f1b0293a15fbea748f28",
+      "PACKAGE_NAME": "top.jrnet.gaodenav.demo"
+    }
+  },
+  "dependent_plugins": {}
+}

@@ -1,0 +1,20 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-navigation": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/luocongqiu/cordova-plugin-navigation.git"
+    },
+    "is_top_level": true,
+    "variables": {
+      "NAVIGATION_API_KEY": "008730dfc736f1b0293a15fbea748f28"
+    }
+  }
+}
